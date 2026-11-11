@@ -52,3 +52,7 @@ In case you're curious, version 1 was a Windows Form application. It has the lar
 
 This new version resizes the text on screen to fit the size of its window.
 
+
+
+(As a side note, NONE of this code was generated through A.I., though it wasn't exactly an engineering challenge to put together, either.)
+
